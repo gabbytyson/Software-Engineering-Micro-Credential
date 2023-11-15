@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://www.smarterselect.com/hs-fs/hubfs/SmarterSelect%20-%20April%202020/Images/How-Do-Scholarship-Funds-Work-3-Things-You-Need-to-Know.jpg?width=800&upsize=true&name=How-Do-Scholarship-Funds-Work-3-Things-You-Need-to-Know.jpg");
+    background-repeat: no-repeat; 
+    background-size:contain;
+    background-position:center;
+}
+h1,h4 {
+    color:white;
+    font-weight: 600;
+}
+h1{ 
+    font-size: 50px;
+}
+nav img {
+    width: 30px;
+    float: right;
+    
+}
+nav a {
+    color:black;
+    text-decoration: none;
+    background-color: antiquewhite;
+    font-weight: 600;
+    position:relative;
+    padding:5px;
+    margin: center;
+}
+.title{
+    margin-top: 40%;
+    padding-left: 10%;
+    background-color: antiquewhite; 
+  }
