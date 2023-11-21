@@ -1,0 +1,9 @@
+.nb {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: solid 1px;
+  border-color: purple;
+  font-weight: bold;
+  padding: 10px 15px 10px 15px;  
+}

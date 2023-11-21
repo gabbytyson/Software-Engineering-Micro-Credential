@@ -1,0 +1,31 @@
+body {
+  border: solid 5px; 
+  border-color: blue;
+  background-color: antiquewhite;
+  padding:20px;
+}
+.profilePhoto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  border: solid 5px; 
+  border-color: purple;
+  width: 100px;
+  height: 100px;
+  border-radius: 15%;
+}
+
+.tb {
+  border: solid; 10px; 
+  border-color: lightcyan;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+.tb th, td {
+  text-align: left;
+  padding: 8px;
+}

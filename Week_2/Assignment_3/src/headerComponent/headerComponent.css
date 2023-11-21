@@ -1,0 +1,17 @@
+.hd {
+  border: solid 5px; 
+  border-color: lightcyan;
+ margin-bottom: 10px;
+  font-weight: bold; 
+  text-align: center;
+  height: 50px;
+  width:100%;
+  vertical-align:center;
+  display:table;
+}
+
+.hd span {
+   display:table-cell;
+   vertical-align:middle;
+  font-size: 50px;
+}
