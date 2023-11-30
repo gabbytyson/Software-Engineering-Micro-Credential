@@ -1,0 +1,19 @@
+
+img{
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+.petimages {
+   border-radius: 5px;
+}
+.petContent {
+    background-color: lightcoral;
+    border-radius: 5px; 
+
+    text-align: center;
+}
+pets.name {
+    font-weight: 200;
+}
