@@ -9,12 +9,11 @@ function NavBarComponent() {
           <div>
  
           </div>
-
-          <div>
-            <a href="/">Home</a>
-            <a href="/user">User Profile</a>
-            <a href="/login">Sign Up/Login</a>
-            <a href="">Favorites &hearts;</a>
+          <div class="nav'">
+            <a class="link" href="/">Home</a>
+            <a class="link"  href="/user">User Profile</a>
+            <a class="link"  href="/login">Sign Up/Login</a>
+            <a class="link"  href="">Favorites &hearts;</a>
           </div>
 
         </nav>
