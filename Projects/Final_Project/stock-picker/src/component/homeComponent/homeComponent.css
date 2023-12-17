@@ -1,0 +1,31 @@
+  .tickerContainer {
+    display: flex;
+    border: 10px solid rgb(6, 46, 6);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease-in-out; 
+  }
+  
+  .tickerContainer:hover {
+    transform: scale(1.05); 
+  }
+  
+  .secondaryTickerContainer {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+  }
+  
+  .thirdTickerContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .tickerContainer img {
+    max-width: 100%; 
+    max-height: 100%; 
+    margin-bottom: 10px;
+    border-radius: 8px; 
+  }
